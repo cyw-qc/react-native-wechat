@@ -16,6 +16,7 @@ $ npm install react-native-wechat --save
   Don't forget to add it to "Build Phases" of project.
 2. Added the following libraries to your "Link Binary With Libraries":
   - CoreTelephony.framework
+  - SystemConfiguration.framework
   - libsqlite3.0
   - libc++
   - libz
